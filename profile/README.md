@@ -1,19 +1,21 @@
 # 미소의할일 ![Generic badge](https://img.shields.io/badge/PRs-welcome-orange.svg)
 <!-- [![GitHub latest commit](https://img.shields.io/github/last-commit/Miso-Todo)](https://github.com/kolonDT/202206_wecode/commit) -->
-
-
 > 아이의 할 일을 보호자와 함께 확인하여 꾸준함과 성실함 증진에 목적을 두는 서비스입니다.
+
 ```
 2022년. 9살이자 초등학교 2학년, 장난꾸러기 최미소의 학교 생활에 도움을 주고자 시작한 프로젝트입니다.
 10월 1일 구상 시작, 미소의 가족들과 함께 얘기를 나누어 가며 정말 필요한 기능을 담기 위해 노력하고 있습니다.
 서비스 곳곳에 미소의 손길이 담길 예정입니다.
 ```
 
+<!-- 
+<img src='https://user-images.githubusercontent.com/97112697/193451665-ae7a07c7-22f2-4beb-a75d-61928324d55b.png' width=300px>
+
 ## 🚙 Service Flow
 > Coming soon
 
 ## 🖥 Screen Work Flow
-> Coming soon
+> Coming soon -->
 
 ## 🔑 Features
 ### 로그인 및 회원가입
