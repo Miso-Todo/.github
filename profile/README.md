@@ -1,4 +1,4 @@
-# 미소의할일 ![Generic badge](https://img.shields.io/badge/PRs-welcome-orange.svg)
+# 미소의 할일 ![Generic badge](https://img.shields.io/badge/PRs-welcome-orange.svg)
 <!-- [![GitHub latest commit](https://img.shields.io/github/last-commit/Miso-Todo)](https://github.com/kolonDT/202206_wecode/commit) -->
 > 아이의 할 일을 보호자와 함께 확인하여 꾸준함과 성실함 증진에 목적을 두는 서비스입니다.
 
@@ -14,7 +14,6 @@
 ## 🚙 Service Flow
 > Coming soon
 
-## 🖥 Screen Work Flow
 > Coming soon -->
 
 ## 🔑 Features
@@ -35,6 +34,10 @@
 ### 알림
 * [ ] 아이 할 일 완료 시 보호자 알림
 
+## 🖥 [Screen Work Flow](https://drive.google.com/file/d/1rpwzZR3HvRMuT_okXXBnqrBZNhpw0iz2/view)
+
+![미소의 할일 screen work flow](https://user-images.githubusercontent.com/97079695/193455935-7a871282-9724-41f0-b684-077d571ba87f.png)
+
 <!-- ## 🛠 Contribute Setup
 **main 브런치를 Fork하고, clone 받으세요. 개발을 시작하기 전에 꼭 error 메세지가 없는지 확인하시길 바랍니다!**
 > '미소의할일'은 npm 워크스페이스를 사용하므로 npm7을 기준으로 환경을 설정해야 합니다. <br/>
@@ -50,5 +53,3 @@ $ npm start
 PR을 업로드하기 전에 테스트를 실행하여 오류가 없는지 꼭 확인하세요. 오류가 없으면 commit 후 push하면 됩니다 🥳
 
 ## 💡 Need to know 
-
-## 💾 DataBase Modeling -->
